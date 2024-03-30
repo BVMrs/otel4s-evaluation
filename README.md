@@ -1,3 +1,4 @@
+Blog post related to the repository: https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/
 # Context Propagation with otel4s
 
 ## System Requirements 
